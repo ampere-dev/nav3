@@ -4,7 +4,7 @@
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0;
-	font-family: ;
+	font-family: 'SF Pro Text', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
 }
 /* Remove paddles for touch enabled devices */
 .chapternav {
