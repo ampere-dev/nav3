@@ -64,9 +64,10 @@
 
 .chapternav-label {
 	font-size: 12px;
-line-height: 1.33337;
-font-weight: 400;
-letter-spacing: -.01em;
+	font-family: 'SF Pro Text', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+	line-height: 1.33337;
+	font-weight: 400;
+	letter-spacing: -.01em;
 	display: block;
 	margin: 0 auto;
 }
